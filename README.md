@@ -17,3 +17,6 @@
 
 `if else 无处不在 -- 鲁迅`
 
+# 2023/10/24
+learingOS的第二阶段，参考这篇文章完成了很多配置工作https://mp.weixin.qq.com/s/hLsKow_Zj_NEuNXZhCe5Vg
+
